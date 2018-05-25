@@ -1,0 +1,138 @@
+@charset "utf-8";
+/* CSS Document */
+
+.top{
+	position:relative;
+	height:100px;
+	background-color:#0B8B8E;}
+.top ul{}
+.top .d1{
+	position:absolute;
+	right:405px;
+	bottom:55px;}
+.top .d1 .an{
+	width:33px;
+	height:31px;
+	margin-left:0px;
+	text-align:center;
+	line-height:31px;
+	color:#fff;
+	background-color:#A8A8A8;}
+.top .d1 .text{
+	width:156px;
+	height:31px;}	
+.top ul li{
+	width:89px;
+	height:41px;
+	line-height:41px;
+	text-align:center;
+	font-size:14px;
+	font-family:"微软雅黑";
+	float:left;
+	margin-right:27px;
+	color:#fff;}
+.top ul li:hover{
+	background-color:#fff;
+	width:89px;
+	height:41px;
+	border-radius:4px 4px 0 0;
+	color:#0B8B8E;
+	line-height:41px;
+	text-align:center;}	
+.top .nav{
+	position:absolute;
+	left:769px;
+	top:58px;}	
+.rdxw{
+	height:46px;
+	line-height:46px;
+	border-bottom:1px #BBBBBB solid;}	
+.rdxw h3{
+	font-size:14px;
+	font-family:"微软雅黑";
+	float:left;
+	margin-right:14px;}
+.rdxw ul{
+	float:left;}
+.rdxw ul li{
+	float:left;
+	font-size:12px;
+	color:#656565;
+	margin-right:20px;}
+.nr{
+	position:relative;
+	margin-top:12px;}	
+.nr .cpfl{
+	width:199px;
+	height:311px;
+	border:1px solid #EEEEEE;}	
+.nr .cpfl h3{
+	width:201px;
+	height:40px;
+	line-height:40px;
+	color:#fff;
+	background-color:#0D9590;}		
+.nr .cpfl ul{
+	margin-top:4px;}				
+.nr .cpfl ul li{
+	font-size:12px;
+	font-family:"微软雅黑";
+	width:187px;
+	height:28px;
+	line-height:28px;
+	border-bottom:1px #999999 dotted;
+	margin-left:5px;}
+.nr .cpfl ul .li1{
+	border-bottom:1px #fff solid;
+	color:red;}
+.nr .lxwm{
+	margin-top:11px;
+	width:199px;
+	height:311px;
+	border:1px solid #EEEEEE;}	
+.nr .lxwm h3{
+	width:201px;
+	height:40px;
+	line-height:40px;
+	color:#fff;
+	background-color:#0D9590;}	
+.nr .lxwm p{
+	font-size:12px;
+	font-family:"微软雅黑";
+	line-height:22px;}	
+.nr .cpzs{
+	position:absolute;
+	left:265px;
+	top:11px;}
+.nr .cpzs .img1{
+	float:left;}
+.nr .cpzs .ziti{
+	width:814px;
+	border-bottom:1px solid #EDEDED;
+	margin-left:8px;}
+.nr .cpzs .fr{
+	float:right;
+	margin-top:-20px;}		
+.nr .cpzs .dt{
+	position:absolute;
+	left:211px;
+	top:75px;}	
+.nr .hj{
+	position:absolute;
+	right:0px;
+	bottom:-173px;}			
+.nr .cpzs .cpzt{
+	margin-top:355px;}	
+.nr .cpzs .cpzt .duozi{
+	margin-bottom:86px;}
+.bottom{
+	height:92px;
+	background-color:#353535;
+	margin-top:175px;
+	text-align:center;
+	padding-top:30px;}
+.bottom a{
+	color:#999999;}
+.bottom p{
+	color:#999999;
+	margin-top:22px;}		
